@@ -11,12 +11,7 @@ import 'firebase/compat/firestore';//this is the database
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBC28AlCnmQT9HwmtB0hGuMROLvViwlK3k",
-  authDomain: "snapgram-74f44.firebaseapp.com",
-  projectId: "snapgram-74f44",
-  storageBucket: "snapgram-74f44.appspot.com",
-  messagingSenderId: "306966762596",
-  appId: "1:306966762596:web:2a3d34b5400a67eac9bb71"
+
 };
 
 // Initialize Firebase
